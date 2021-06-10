@@ -10,7 +10,7 @@
 ## Visuals
 
 > Main Page
-![](images/pageone.png | width=250)
+![](images/pageone.png )
 
 > Result Page
-![](images/pagetwo.png | width=250)
+![](images/pagetwo.png)
