@@ -10,7 +10,7 @@
 ## Visuals
 
 > Main Page
-![](images/pageone.png)
+![](images/pageone.png = 450x450)
 
 > Result Page
-![](images/pagetwo.png)
+![](images/pagetwo.png = 450x450)
