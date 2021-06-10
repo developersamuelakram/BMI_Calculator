@@ -9,5 +9,8 @@
 
 ## Visuals
 
+> Main Page
 ![](images/pageone.png)
+
+> Result Page
 ![](images/pagetwo.png)
